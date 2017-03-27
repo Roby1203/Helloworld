@@ -1,4 +1,5 @@
 import math
+print "digitare 1 per il volume del cubo o 2 per il volume della sfera"
 num = input("Insersici un numero,  ")
 
 if num == 1:
