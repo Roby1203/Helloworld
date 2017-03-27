@@ -1,2 +1,3 @@
-print ("Come ti chiami?")
-raw_input("Hello, ")
+nome = raw_input ("Come ti chiami?    ")
+print "Ciao", nome
+
